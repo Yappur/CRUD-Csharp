@@ -1,0 +1,15 @@
+C:\Users\Mateo\Desktop\CRUD-Csharp\obj\Debug\net10.0\CRUD-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo\Desktop\CRUD-Csharp\obj\Debug\net10.0\CRUD-Csharp.AssemblyInfoInputs.cache
+C:\Users\Mateo\Desktop\CRUD-Csharp\obj\Debug\net10.0\CRUD-Csharp.AssemblyInfo.cs
+C:\Users\Mateo\Desktop\CRUD-Csharp\obj\Debug\net10.0\CRUD-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\CRUD-Csharp\obj\Debug\net10.0\CRUD-Csharp.sourcelink.json
+C:\Users\Mateo\Desktop\CRUD-Csharp\bin\Debug\net10.0\CRUD-Csharp.exe
+C:\Users\Mateo\Desktop\CRUD-Csharp\bin\Debug\net10.0\CRUD-Csharp.deps.json
+C:\Users\Mateo\Desktop\CRUD-Csharp\bin\Debug\net10.0\CRUD-Csharp.runtimeconfig.json
+C:\Users\Mateo\Desktop\CRUD-Csharp\bin\Debug\net10.0\CRUD-Csharp.dll
+C:\Users\Mateo\Desktop\CRUD-Csharp\bin\Debug\net10.0\CRUD-Csharp.pdb
+C:\Users\Mateo\Desktop\CRUD-Csharp\obj\Debug\net10.0\CRUD-Csharp.dll
+C:\Users\Mateo\Desktop\CRUD-Csharp\obj\Debug\net10.0\refint\CRUD-Csharp.dll
+C:\Users\Mateo\Desktop\CRUD-Csharp\obj\Debug\net10.0\CRUD-Csharp.pdb
+C:\Users\Mateo\Desktop\CRUD-Csharp\obj\Debug\net10.0\CRUD-Csharp.genruntimeconfig.cache
+C:\Users\Mateo\Desktop\CRUD-Csharp\obj\Debug\net10.0\ref\CRUD-Csharp.dll
